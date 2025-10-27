@@ -1,0 +1,301 @@
+TransactionID,CustomerID,Date,Amount,Type,Merchant,City,Country,CardType,Status
+T0001,C011,2023/03/01,4990.84,Debit,Walmart,Dubai,France,Amex,Fraud_Suspect
+T0002,C026,02-04-2023,2796.07,Debit,Uber,Toronto,Australia,Visa,Fraud_Suspect
+T0003,C024,2023/02/08,1505.73,Debit,Uber,New York,Germany,Amex,Failed
+T0004,C040,03-06-2023,9336.74,credit,Amazon,Paris,UAE,MasterCard,Failed
+T0005,C006,2023-09-20,2707.53,credit,Spotify  ,Dubai,Germany,Amex,Failed
+T0006,C032,2023-09-06,1153.97,Credit,Rolex Store,London,Japan,Amex,Fraud_Suspect
+T0007,C016,15-08-2023,,Debit,Walmart,Paris,USA,Visa,Failed
+T0008,C026,2023-02-05,9970.01,debit,Apple Store,Toronto,Japan,Amex,Completed
+T0009,C048,2023/10/18,8124.17,Credit,Netflix,Paris,Australia,Visa,Completed
+T0010,C003,2023-02-18,4603.36,Credit,Spotify,Dubai,uae,MasterCard,Fraud_Suspect
+T0011,C049,21-07-2023,522.7,Credit,Spotify,London,germany,MasterCard,Failed
+T0012,C043,2023-08-17,2437.46,credit,Walmart,Toronto,Germany,Amex,Completed
+T0013,C035,2023/01/09,4284.11,credit,Zara,Berlin,Germany,Visa,Completed
+T0014,C006,2023-04-28,2364.86,Debit,Netflix,New York,uae,Visa,Completed
+T0015,C029,17-04-2023,8557.03,credit,Apple Store,London,uae,MasterCard,Failed
+T0016,C035,2023-06-04,5843.61,Credit,Apple Store  ,Toronto,France,Amex,Completed
+T0017,C039,2023/10/22,1295.87,debit,Walmart,Toronto,UAE,Visa,Fraud_Suspect
+T0018,C014,01-01-2024,1951.06,Credit,Walmart,London,Australia,Amex,Completed
+T0019,C015,2023-08-16,7291.64,debit,Netflix,Sydney,Australia,Visa,Completed
+T0020,C042,2023-12-30,6576.33,Credit,Spotify,Tokyo,UK,Amex,Completed
+T0021,C040,18-05-2023,4192.22,Debit,Apple Store,London,australia,Amex,Fraud_Suspect
+T0022,C030,2023/03/14,4413.24,credit,Netflix,Berlin,Germany,Amex,Fraud_Suspect
+T0023,C012,2023/06/08,2083.15,Debit,Apple Store,Toronto,France,Amex,Failed
+T0024,C015,06-08-2023,3670.31,credit,Apple Store,New York,Japan,MasterCard,Failed
+T0025,C032,2023/09/09,9833.38,Debit,Uber,Dubai,uk,Visa,Completed
+T0026,C028,2023/05/15,226.65,debit,McDonalds,Berlin,Japan,Visa,Failed
+T0027,C019,2023/04/22,9171.38,debit,Spotify,Dubai,Australia,,Fraud_Suspect
+T0028,C027,2023-07-14,3343.89,Debit,Rolex Store,Paris,japan,Visa,Completed
+T0029,C040,2023-02-10,6055.78,credit,Luxury Cars Ltd,Sydney,Australia,MasterCard,Failed
+T0030,C023,2023-06-20,3662.23,Credit,Luxury Cars Ltd,Tokyo,Germany,Visa,Failed
+T0031,C006,2023/09/30,3919.59,Debit,Spotify,Toronto,Japan,,Fraud_Suspect
+T0032,C011,08-11-2023,6583.35,Credit,Apple Store,Paris,germany,MasterCard,Fraud_Suspect
+T0033,C005,2023/03/30,6494.53,credit,Walmart,Sydney,UK,Visa,Completed
+T0034,C044,2023-10-28,9208.29,Credit,Zara  ,Berlin,japan,Amex,Failed
+T0035,C016,2023/02/09,8427.96,Credit,Spotify  ,Toronto,UAE,Amex,Completed
+T0036,C047,2023-11-04,4015.1,credit,Rolex Store,Paris,Japan,MasterCard,Completed
+T0037,C030,2023-08-16,3411.21,Debit,McDonalds,Toronto,Canada,MasterCard,Failed
+T0038,C012,2023/02/11,9540.51,Debit,Uber,London,france,MasterCard,Failed
+T0039,C035,15-09-2023,1461.23,Debit,McDonalds,London,France,MasterCard,Completed
+T0040,C039,2023/12/27,5368.42,Credit,Zara,London,Australia,Amex,Failed
+T0041,C020,30-08-2023,,credit,Walmart  ,London,Canada,Amex,Completed
+T0042,C002,2023-08-26,8065.1,debit,Amazon  ,New York,Japan,,Completed
+T0043,C044,2023-10-11,9322.4,Debit,Apple Store,Paris,Australia,MasterCard,Fraud_Suspect
+T0044,C007,2023-07-22,836.07,Debit,Netflix,London,uae,Visa,Failed
+T0045,C033,2023-06-24,3387.47,Debit,Amazon,London,USA,Visa,Failed
+T0046,C036,2023-11-24,3076.87,Credit,Luxury Cars Ltd,Paris,france,MasterCard,Fraud_Suspect
+T0047,C025,02-04-2023,6402.54,debit,Spotify,Paris,USA,Visa,Completed
+T0048,C022,08-05-2023,3885.53,credit,Rolex Store,Berlin,France,Amex,Completed
+T0049,C010,24-02-2023,6386.79,Debit,Amazon,London,Australia,MasterCard,Fraud_Suspect
+T0050,C013,29-09-2023,7546.25,Debit,Netflix,Berlin,uk,MasterCard,Failed
+T0051,C006,2023-08-20,8977.31,debit,Rolex Store,Dubai,Australia,Amex,Fraud_Suspect
+T0052,C030,2023/10/30,528.58,credit,Netflix,Tokyo,USA,MasterCard,Completed
+T0053,C012,2023/10/03,594.62,Debit,Walmart,Berlin,USA,MasterCard,Fraud_Suspect
+T0054,C001,2023/07/15,6398.88,Credit,Rolex Store  ,Paris,UAE,Amex,Completed
+T0055,C015,2023/01/06,2025.69,Credit,Uber,Tokyo,Japan,Amex,Fraud_Suspect
+T0056,C008,2023-01-20,7482.31,Debit,Walmart,New York,UK,MasterCard,Failed
+T0057,C003,2023/05/27,8161.21,credit,Amazon,Dubai,Canada,MasterCard,Failed
+T0058,C003,23-02-2023,257.3,debit,Spotify,Dubai,USA,MasterCard,Fraud_Suspect
+T0059,C033,2023/02/15,2125.4,Debit,McDonalds,New York,uae,Amex,Failed
+T0060,C044,2023/09/19,8992.07,credit,Uber,New York,Germany,Amex,Fraud_Suspect
+T0061,C034,2023/08/25,9318.89,credit,Uber,Tokyo,USA,MasterCard,Fraud_Suspect
+T0062,C003,31-07-2023,5953.81,Credit,Spotify,Berlin,Australia,Visa,Failed
+T0063,C034,21-11-2023,2620.89,credit,Rolex Store,New York,USA,Amex,Completed
+T0064,C006,2023/05/22,7727.26,credit,Uber,Dubai,UAE,Amex,Completed
+T0065,C014,15-09-2023,2241.87,debit,Netflix,Toronto,canada,Visa,Fraud_Suspect
+T0066,C002,2023-06-21,7509.35,debit,Spotify,Toronto,USA,MasterCard,Fraud_Suspect
+T0067,C047,2023/01/07,,credit,Amazon,Dubai,USA,,Completed
+T0068,C027,2023/08/14,8030.0,Debit,McDonalds,Toronto,UK,MasterCard,Completed
+T0069,C038,2023-03-07,8692.16,Credit,Zara  ,Berlin,UAE,MasterCard,Fraud_Suspect
+T0070,C021,22-08-2023,4640.36,debit,Rolex Store,New York,UAE,Visa,Completed
+T0071,C018,02-07-2023,1268.69,Debit,Zara,Dubai,Australia,Visa,Fraud_Suspect
+T0072,C002,05-12-2023,7944.25,credit,Amazon,London,USA,MasterCard,Failed
+T0073,C018,13-05-2023,4694.66,Credit,Luxury Cars Ltd,Sydney,usa,MasterCard,Fraud_Suspect
+T0074,C031,2023/10/03,7026.21,credit,Uber,Tokyo,Japan,MasterCard,Fraud_Suspect
+T0075,C010,2023-10-27,2783.12,Credit,Spotify,Paris,UK,Visa,Completed
+T0076,C032,2023/08/10,9041.23,Credit,Netflix,Sydney,Canada,Amex,Failed
+T0077,C015,2023/11/23,1481.74,debit,Amazon,Tokyo,France,Visa,Fraud_Suspect
+T0078,C024,15-11-2023,6632.51,Debit,Walmart,New York,Australia,Visa,Fraud_Suspect
+T0079,C024,26-01-2023,9172.22,debit,Luxury Cars Ltd,Berlin,UAE,Visa,Fraud_Suspect
+T0080,C032,19-07-2023,2257.8,Credit,Rolex Store,Dubai,USA,MasterCard,Completed
+T0081,C048,27-03-2023,4757.69,Credit,Netflix,London,UAE,MasterCard,Completed
+T0082,C007,2023/07/12,7720.97,debit,Luxury Cars Ltd,Sydney,Canada,MasterCard,Failed
+T0083,C030,2023-08-23,4636.15,Debit,McDonalds,Tokyo,Japan,Visa,Completed
+T0084,C005,2023/10/19,5789.43,credit,Spotify  ,Dubai,Germany,,Completed
+T0085,C032,2023-04-30,302.53,Debit,Spotify,Sydney,Australia,MasterCard,Completed
+T0086,C024,01-11-2023,6460.42,Debit,Amazon,Paris,UK,Amex,Fraud_Suspect
+T0087,C018,2023/05/27,1758.53,credit,Netflix,Dubai,UAE,Amex,Fraud_Suspect
+T0088,C017,02-10-2023,2532.12,credit,Amazon,Sydney,UAE,MasterCard,Failed
+T0089,C034,24-09-2023,133.29,debit,Walmart,New York,UAE,Visa,Failed
+T0090,C005,2023-07-23,9308.41,credit,Uber,London,Japan,MasterCard,Completed
+T0091,C041,2023/01/23,189.11,Credit,Netflix,Toronto,Australia,MasterCard,Fraud_Suspect
+T0092,C009,2023-01-15,7065.01,Debit,Walmart,Sydney,Australia,Visa,Fraud_Suspect
+T0093,C034,13-08-2023,1305.18,Debit,Uber,Berlin,USA,Visa,Completed
+T0094,C050,2023/01/18,8315.51,debit,Amazon,Paris,UAE,MasterCard,Fraud_Suspect
+T0095,C019,24-09-2023,4812.4,Credit,Luxury Cars Ltd,Tokyo,Japan,Visa,Failed
+T0096,C035,2023-02-13,3932.82,Debit,McDonalds,Paris,UK,Visa,Failed
+T0097,C037,2023-02-12,7458.42,debit,McDonalds,Dubai,UAE,Visa,Fraud_Suspect
+T0098,C024,2023-01-27,7839.08,Credit,Rolex Store,Paris,USA,Visa,Fraud_Suspect
+T0099,C009,08-12-2023,9976.91,Debit,Spotify  ,Dubai,Japan,Visa,Fraud_Suspect
+T0100,C004,2023/07/24,593.08,credit,Netflix,Berlin,UK,,Completed
+T0101,C050,06-06-2023,1697.96,debit,Spotify,Paris,uae,Visa,Failed
+T0102,C040,2023-03-24,2280.51,credit,Zara,New York,UAE,MasterCard,Fraud_Suspect
+T0103,C014,2023-02-18,8729.36,credit,Amazon,Toronto,Australia,MasterCard,Completed
+T0104,C050,2023/11/22,224.29,Credit,Rolex Store  ,Tokyo,Japan,Amex,Completed
+T0105,C002,2023-03-18,5047.65,credit,Walmart,Paris,uae,Visa,Fraud_Suspect
+T0106,C019,2023-02-12,8905.23,Debit,Apple Store,Sydney,Japan,MasterCard,Failed
+T0107,C035,2023/05/02,7064.66,Credit,Luxury Cars Ltd,Berlin,Australia,MasterCard,Failed
+T0108,C013,2023/09/18,7560.65,Credit,Amazon,Sydney,uae,Visa,Fraud_Suspect
+T0109,C045,2023-04-04,1781.56,Debit,Spotify,London,canada,MasterCard,Fraud_Suspect
+T0110,C015,2023-12-05,4677.17,Debit,Luxury Cars Ltd,Paris,usa,Amex,Completed
+T0111,C007,2023-11-13,9571.62,credit,Rolex Store,Tokyo,Canada,MasterCard,Completed
+T0112,C012,2023-02-18,8430.44,credit,Uber  ,Dubai,canada,Amex,Failed
+T0113,C005,04-05-2023,3349.1,debit,Walmart,Tokyo,canada,,Completed
+T0114,C028,2023/11/28,7103.85,credit,Zara,Dubai,France,Amex,Fraud_Suspect
+T0115,C050,2023/04/16,5072.36,credit,Zara,Toronto,UK,Amex,Failed
+T0116,C003,2023-12-08,,Debit,Netflix,Sydney,UK,Amex,Completed
+T0117,C050,04-02-2023,3347.56,Debit,Walmart,New York,Japan,Visa,Fraud_Suspect
+T0118,C023,2023-07-26,,Credit,Luxury Cars Ltd,Berlin,USA,MasterCard,Failed
+T0119,C024,23-04-2023,3113.4,credit,Uber,Sydney,UAE,Amex,Failed
+T0120,C013,2023-12-04,4877.15,Debit,Luxury Cars Ltd,Berlin,France,MasterCard,Fraud_Suspect
+T0121,C038,2023-06-25,5677.63,Debit,Zara,Dubai,USA,Visa,Completed
+T0122,C002,2023/06/10,2271.73,credit,Netflix,Berlin,Japan,Visa,Fraud_Suspect
+T0123,C019,2023-02-16,1635.42,debit,Rolex Store,Tokyo,germany,Amex,Completed
+T0124,C005,2023/09/01,3322.08,debit,Walmart,Tokyo,Germany,Visa,Failed
+T0125,C008,02-08-2023,5447.41,credit,Apple Store,London,France,Visa,Fraud_Suspect
+T0126,C039,02-07-2023,5319.35,Credit,Spotify,Toronto,Australia,MasterCard,Completed
+T0127,C013,2023/04/24,311.38,Credit,Apple Store,Tokyo,Germany,Visa,Fraud_Suspect
+T0128,C019,11-08-2023,2117.62,credit,Netflix,Toronto,USA,MasterCard,Failed
+T0129,C005,2023-05-01,8312.67,Credit,McDonalds  ,Toronto,Germany,Visa,Completed
+T0130,C043,2023/10/21,2602.56,Credit,Apple Store,Tokyo,Canada,Visa,Completed
+T0131,C006,2023/10/19,5888.25,debit,McDonalds,Berlin,uae,Visa,Fraud_Suspect
+T0132,C010,2023/10/24,6223.59,credit,Amazon,Paris,Japan,Visa,Fraud_Suspect
+T0133,C022,2023-04-02,8975.47,Credit,Walmart,Toronto,UAE,Visa,Completed
+T0134,C050,2023/01/30,5058.58,Debit,Spotify,Toronto,USA,MasterCard,Completed
+T0135,C050,2023/08/26,2772.84,Credit,Amazon,London,USA,Visa,Completed
+T0136,C026,2023-04-16,,Credit,Rolex Store,Paris,France,MasterCard,Completed
+T0137,C001,11-03-2023,2742.65,Credit,McDonalds,London,germany,MasterCard,Completed
+T0138,C050,01-01-2024,1611.9,Debit,Amazon,Paris,USA,Visa,Failed
+T0139,C005,2023-05-24,1243.66,Debit,McDonalds,Tokyo,Australia,MasterCard,Failed
+T0140,C016,2023/03/09,6980.86,debit,Rolex Store,Dubai,France,Visa,Completed
+T0141,C029,2024/01/01,4987.88,Credit,Spotify,New York,UAE,Amex,Failed
+T0142,C020,18-10-2023,4662.26,credit,Apple Store  ,Berlin,UK,MasterCard,Failed
+T0143,C011,2023/02/06,9579.45,debit,Uber,Sydney,Japan,Amex,Fraud_Suspect
+T0144,C015,2023-10-13,8914.56,debit,Walmart,Paris,canada,Amex,Completed
+T0145,C047,10-10-2023,3805.68,credit,McDonalds  ,Berlin,japan,Visa,Failed
+T0146,C007,07-07-2023,6642.59,Credit,Amazon,Toronto,UAE,Amex,Failed
+T0147,C032,25-05-2023,9236.62,Credit,Zara,Sydney,germany,Amex,Fraud_Suspect
+T0148,C002,11-08-2023,164.01,Debit,Amazon  ,Tokyo,USA,Amex,Failed
+T0149,C004,2023-05-15,4326.9,credit,Rolex Store  ,Tokyo,Australia,Amex,Completed
+T0150,C013,2023/06/13,1868.39,debit,Walmart,Paris,Germany,MasterCard,Completed
+T0151,C024,2023/04/14,6885.23,Credit,Zara,New York,Germany,MasterCard,Failed
+T0152,C026,2023-02-27,702.74,credit,Walmart  ,Toronto,UK,Amex,Completed
+T0153,C003,2023/06/19,9316.03,Credit,Amazon,Berlin,germany,Amex,Completed
+T0154,C043,2023/03/07,1458.54,debit,Apple Store  ,London,Japan,Visa,Failed
+T0155,C005,2023/06/11,,Credit,Walmart,Berlin,uae,Amex,Fraud_Suspect
+T0156,C029,2023/02/24,5663.94,credit,Uber,Berlin,Germany,Amex,Fraud_Suspect
+T0157,C008,17-09-2023,5544.83,debit,Apple Store,Sydney,USA,Amex,Completed
+T0158,C013,2023-05-08,7350.81,credit,Netflix,Tokyo,Canada,MasterCard,Failed
+T0159,C022,06-01-2023,7992.66,Credit,Apple Store  ,Tokyo,UK,Visa,Completed
+T0160,C016,25-09-2023,8215.87,debit,Netflix,Toronto,USA,Amex,Completed
+T0161,C032,17-12-2023,5149.37,Debit,Walmart,Berlin,Australia,Amex,Failed
+T0162,C037,27-06-2023,4541.88,Credit,Walmart,Dubai,Japan,,Failed
+T0163,C046,01-07-2023,4860.54,Debit,Luxury Cars Ltd,Tokyo,USA,Visa,Fraud_Suspect
+T0164,C022,09-03-2023,2172.11,credit,Apple Store,New York,uk,MasterCard,Failed
+T0165,C019,03-04-2023,9099.73,credit,Spotify,London,uae,Amex,Completed
+T0166,C045,2023-09-22,7274.27,Debit,McDonalds,Tokyo,germany,Amex,Failed
+T0167,C042,2023/10/25,7849.75,credit,McDonalds,Berlin,UAE,Visa,Completed
+T0168,C009,2023-03-13,9721.59,debit,Spotify  ,Tokyo,Germany,Amex,Completed
+T0169,C028,27-03-2023,7193.96,debit,Uber,Dubai,USA,Visa,Failed
+T0170,C033,08-01-2023,6224.96,debit,Apple Store,Berlin,Japan,Visa,Failed
+T0171,C040,2023/05/08,5911.99,debit,Spotify,London,USA,MasterCard,Failed
+T0172,C043,2023-05-01,9021.64,debit,McDonalds,Berlin,Germany,Visa,Fraud_Suspect
+T0173,C022,2023-04-14,8876.1,Credit,Uber  ,Toronto,Australia,MasterCard,Completed
+T0174,C014,30-01-2023,3567.99,Credit,Rolex Store,New York,UAE,Visa,Fraud_Suspect
+T0175,C003,2023/01/18,576.03,Credit,Spotify,New York,UAE,MasterCard,Failed
+T0176,C048,2023/12/31,5911.24,Credit,Walmart  ,New York,France,Amex,Completed
+T0177,C040,19-09-2023,8878.94,debit,Apple Store,Tokyo,canada,MasterCard,Fraud_Suspect
+T0178,C041,2023-11-16,3832.54,debit,Luxury Cars Ltd,Dubai,France,MasterCard,Fraud_Suspect
+T0179,C029,02-02-2023,2235.85,Debit,Uber,London,Canada,MasterCard,Completed
+T0180,C032,2023/02/22,8773.26,debit,Spotify,Sydney,France,MasterCard,Fraud_Suspect
+T0181,C019,2023/01/28,9518.46,Debit,Luxury Cars Ltd,Berlin,uk,Amex,Completed
+T0182,C047,2023-12-20,2027.04,credit,Luxury Cars Ltd,London,UK,Amex,Failed
+T0183,C003,2023-10-31,3236.76,Credit,Spotify,Dubai,japan,Amex,Completed
+T0184,C026,08-03-2023,804.32,Credit,Apple Store,Sydney,Germany,Amex,Fraud_Suspect
+T0185,C041,19-01-2023,5977.82,Credit,Zara,Tokyo,Australia,Visa,Completed
+T0186,C011,2023-10-25,824.12,Credit,Zara,New York,USA,Visa,Failed
+T0187,C027,2023-07-01,5505.07,Credit,Luxury Cars Ltd,Berlin,Germany,Visa,Fraud_Suspect
+T0188,C049,08-11-2023,9793.78,Debit,Rolex Store,Tokyo,USA,MasterCard,Failed
+T0189,C023,2023-12-27,9189.23,credit,Walmart,New York,uk,Amex,Completed
+T0190,C014,2023-03-13,8774.73,debit,McDonalds,Tokyo,France,MasterCard,Fraud_Suspect
+T0191,C015,2024-01-01,297.77,Credit,Zara,Paris,Canada,Visa,Failed
+T0192,C002,2023-12-04,5256.29,debit,Luxury Cars Ltd,Paris,UAE,Amex,Fraud_Suspect
+T0193,C014,09-05-2023,1874.21,debit,Uber  ,Paris,UK,Amex,Failed
+T0194,C011,22-03-2023,,credit,Walmart,Berlin,UK,MasterCard,Completed
+T0195,C003,2023/12/28,4478.63,credit,Rolex Store,Sydney,UK,MasterCard,Failed
+T0196,C016,01-10-2023,,credit,Uber,Berlin,France,MasterCard,Failed
+T0197,C037,2023/07/08,5299.47,debit,Walmart,Toronto,Japan,,Completed
+T0198,C025,2023/03/20,2634.52,credit,Amazon  ,Sydney,USA,MasterCard,Failed
+T0199,C025,2023-06-18,8956.38,Debit,Spotify,London,usa,Amex,Fraud_Suspect
+T0200,C025,03-12-2023,3275.77,credit,Netflix,Sydney,Japan,Visa,Failed
+T0201,C012,2023-10-28,2921.58,Credit,Apple Store,Sydney,UK,Visa,Fraud_Suspect
+T0202,C016,2023-12-09,8548.77,Credit,Netflix,New York,Canada,Amex,Fraud_Suspect
+T0203,C050,2023-02-13,7486.21,credit,McDonalds,Toronto,Australia,Amex,Fraud_Suspect
+T0204,C028,2023/09/28,4697.69,Debit,Rolex Store,Toronto,Canada,Amex,Fraud_Suspect
+T0205,C046,21-04-2023,,credit,Spotify,Sydney,germany,Visa,Completed
+T0206,C037,13-11-2023,2990.95,debit,Walmart,Berlin,Canada,Amex,Fraud_Suspect
+T0207,C023,2023/04/28,8448.55,Debit,Luxury Cars Ltd,Berlin,Japan,MasterCard,Completed
+T0208,C042,2023-01-15,7883.69,Debit,McDonalds,New York,Canada,Visa,Completed
+T0209,C002,2023-05-22,8689.91,credit,Apple Store,Tokyo,UK,Visa,Failed
+T0210,C050,2023-04-16,,credit,Spotify,Berlin,UK,Amex,Failed
+T0211,C013,2023-06-18,,credit,Zara,New York,Japan,MasterCard,Failed
+T0212,C049,2023-11-26,918.19,Credit,Rolex Store,Paris,Germany,Amex,Failed
+T0213,C040,21-11-2023,7258.85,Credit,Walmart,Toronto,usa,MasterCard,Fraud_Suspect
+T0214,C035,20-09-2023,5117.26,credit,Rolex Store,Dubai,Germany,Visa,Failed
+T0215,C020,2023/10/16,991.29,debit,Rolex Store  ,Dubai,UK,MasterCard,Completed
+T0216,C004,2023-01-16,6348.88,Credit,Rolex Store,Dubai,australia,MasterCard,Fraud_Suspect
+T0217,C009,2023/11/23,8422.95,Debit,Zara,Tokyo,canada,MasterCard,Failed
+T0218,C036,2023/09/22,1790.37,Credit,Amazon,Berlin,uk,MasterCard,Failed
+T0219,C007,26-05-2023,622.02,debit,Luxury Cars Ltd,London,UAE,,Failed
+T0220,C010,06-06-2023,1770.75,Credit,Walmart,New York,france,Amex,Completed
+T0221,C019,2023-05-17,5193.78,credit,Amazon,Sydney,USA,Amex,Failed
+T0222,C048,2023/04/25,2292.72,credit,Netflix  ,New York,UK,Visa,Completed
+T0223,C038,2023/09/30,2425.18,Credit,Walmart,Tokyo,uk,MasterCard,Fraud_Suspect
+T0224,C006,2023/01/18,2581.86,credit,Netflix  ,London,USA,MasterCard,Failed
+T0225,C008,2023/12/24,4722.05,debit,Zara,Dubai,UK,Amex,Failed
+T0226,C002,2023-07-13,1809.58,Debit,Walmart,Toronto,USA,MasterCard,Failed
+T0227,C028,13-07-2023,7869.39,debit,Amazon,Toronto,Canada,Amex,Completed
+T0228,C023,2023-05-31,2847.44,debit,Zara,London,Germany,Visa,Fraud_Suspect
+T0229,C004,11-10-2023,2370.61,credit,Walmart,Sydney,Australia,Visa,Fraud_Suspect
+T0230,C033,2023/06/07,9566.15,Debit,Uber,Berlin,UAE,MasterCard,Fraud_Suspect
+T0231,C031,2023/07/04,1764.39,Debit,Walmart  ,Berlin,UK,Visa,Fraud_Suspect
+T0232,C030,20-04-2023,8201.95,Credit,Apple Store,Tokyo,Germany,Visa,Fraud_Suspect
+T0233,C017,2023-09-18,,debit,Uber,New York,france,MasterCard,Fraud_Suspect
+T0234,C024,2023/08/11,6385.82,Debit,Luxury Cars Ltd,Dubai,Germany,Amex,Fraud_Suspect
+T0235,C017,2023-09-22,5815.79,debit,McDonalds  ,Dubai,Australia,MasterCard,Failed
+T0236,C032,2023-02-01,2335.98,credit,Luxury Cars Ltd,Toronto,France,Amex,Fraud_Suspect
+T0237,C019,2023-01-10,4283.14,debit,Rolex Store,Sydney,uk,MasterCard,Failed
+T0238,C019,05-07-2023,3242.59,credit,Rolex Store,New York,Canada,MasterCard,Failed
+T0239,C024,2023/12/28,5433.27,credit,Zara,Sydney,uk,Visa,Failed
+T0240,C041,08-04-2023,3569.91,Debit,Luxury Cars Ltd,Dubai,usa,Visa,Fraud_Suspect
+T0241,C015,11-10-2023,3764.77,debit,Netflix,Dubai,canada,MasterCard,Fraud_Suspect
+T0242,C012,23-09-2023,1554.69,Debit,Walmart,Dubai,Canada,Visa,Completed
+T0243,C010,2023-06-05,1158.44,Debit,Zara,Sydney,Japan,MasterCard,Failed
+T0244,C012,2023-07-31,7067.41,Debit,Luxury Cars Ltd,Dubai,USA,Visa,Failed
+T0245,C019,2023-05-16,958.49,debit,Luxury Cars Ltd,Sydney,australia,MasterCard,Failed
+T0246,C031,2023/10/04,2206.17,credit,Netflix,Paris,Germany,Visa,Fraud_Suspect
+T0247,C026,2023/04/25,2378.04,debit,Walmart,Sydney,UAE,Amex,Completed
+T0248,C005,2023-07-16,9529.15,credit,Rolex Store,New York,USA,Amex,Completed
+T0249,C040,13-04-2023,812.41,debit,McDonalds,London,UK,Amex,Fraud_Suspect
+T0250,C005,2023-02-20,5752.13,Credit,Walmart,Sydney,usa,MasterCard,Failed
+T0251,C037,2023-03-02,9284.14,Credit,Rolex Store,Dubai,USA,Amex,Completed
+T0252,C036,2023-10-30,2228.67,Debit,Apple Store,Paris,USA,Amex,Completed
+T0253,C039,2023-04-11,6500.26,Debit,Apple Store,Tokyo,Australia,MasterCard,Completed
+T0254,C046,2023/12/14,,debit,Apple Store,Tokyo,UK,Amex,Fraud_Suspect
+T0255,C007,2023-03-03,2496.42,debit,Zara  ,Toronto,france,Amex,Failed
+T0256,C005,2023/02/21,8896.34,debit,Amazon,Sydney,Japan,MasterCard,Fraud_Suspect
+T0257,C044,2023/05/13,8451.53,credit,Spotify,Dubai,Germany,MasterCard,Fraud_Suspect
+T0258,C041,2023/09/21,1299.79,Credit,McDonalds,London,canada,Visa,Completed
+T0259,C036,2023-06-15,5472.4,Credit,Uber,Berlin,UK,Amex,Completed
+T0260,C011,10-10-2023,6961.37,credit,Netflix,London,Japan,MasterCard,Fraud_Suspect
+T0261,C002,2023-07-27,6477.2,debit,Zara,New York,USA,MasterCard,Fraud_Suspect
+T0262,C029,2023/10/03,5409.92,Credit,Zara,New York,Germany,Visa,Failed
+T0263,C020,2023/02/28,8328.22,debit,Amazon,Tokyo,Germany,Amex,Completed
+T0264,C010,2023/08/27,8556.27,credit,Luxury Cars Ltd,London,canada,MasterCard,Failed
+T0265,C047,2023/11/04,2577.45,credit,Spotify,Dubai,USA,Visa,Fraud_Suspect
+T0266,C046,2023-10-19,9359.27,Debit,Rolex Store,Tokyo,UK,MasterCard,Fraud_Suspect
+T0267,C014,02-11-2023,6896.83,credit,Walmart,New York,UAE,MasterCard,Failed
+T0268,C026,2023/07/12,3139.78,Debit,Luxury Cars Ltd,London,uae,Amex,Completed
+T0269,C043,27-05-2023,9158.7,credit,Apple Store,Sydney,Australia,,Fraud_Suspect
+T0270,C034,2023-12-10,8321.9,credit,Spotify,Tokyo,UK,Amex,Completed
+T0271,C006,2023/05/27,5246.77,credit,Netflix,New York,France,Visa,Fraud_Suspect
+T0272,C006,04-12-2023,3116.55,debit,Apple Store,Sydney,uae,MasterCard,Completed
+T0273,C043,2023/05/26,1721.77,credit,Amazon,Berlin,UK,MasterCard,Fraud_Suspect
+T0274,C008,2023/04/16,1502.63,Credit,Walmart,London,uk,MasterCard,Failed
+T0275,C043,29-12-2023,,debit,Luxury Cars Ltd,Dubai,UK,MasterCard,Fraud_Suspect
+T0276,C004,2023/11/28,6360.51,credit,McDonalds,London,France,Visa,Failed
+T0277,C047,2023/10/28,1754.83,Credit,Zara,Dubai,france,Visa,Fraud_Suspect
+T0278,C040,2023/09/07,8065.63,Credit,Uber,Sydney,USA,,Failed
+T0279,C020,2023/07/17,9563.36,Debit,Luxury Cars Ltd,Tokyo,France,Visa,Failed
+T0280,C009,22-02-2023,5438.21,Debit,Luxury Cars Ltd,New York,germany,,Failed
+T0281,C026,26-04-2023,8020.75,debit,Rolex Store,London,UK,Visa,Fraud_Suspect
+T0282,C007,16-11-2023,9566.71,Credit,Zara,Toronto,USA,Visa,Completed
+T0283,C009,2023-10-29,8876.12,Credit,Uber,Sydney,UAE,Amex,Completed
+T0284,C036,2023/10/31,7018.3,Credit,Amazon,Paris,Australia,Amex,Failed
+T0285,C004,2023-08-24,6266.2,Debit,Amazon,Tokyo,USA,MasterCard,Completed
+T0286,C012,2023-05-22,,Debit,Amazon,Toronto,France,Visa,Failed
+T0287,C023,13-07-2023,9803.58,Debit,Amazon,New York,uk,,Completed
+T0288,C048,2023/04/05,8647.36,Debit,Zara,New York,Australia,Amex,Failed
+T0289,C049,2023/08/12,2841.53,Credit,Apple Store,Paris,USA,Amex,Fraud_Suspect
+T0290,C044,24-07-2023,9602.41,Debit,Spotify,Paris,Japan,Amex,Fraud_Suspect
+T0291,C036,01-11-2023,7939.64,debit,Spotify,Dubai,USA,Visa,Completed
+T0292,C004,2023/10/11,3110.07,Credit,Apple Store,London,Germany,Visa,Completed
+T0293,C009,16-02-2023,8540.75,Debit,Amazon,Dubai,UAE,Visa,Fraud_Suspect
+T0294,C015,2023-08-30,,Debit,Apple Store,New York,USA,MasterCard,Completed
+T0295,C014,2023/04/14,9262.8,Debit,Apple Store,Tokyo,Australia,MasterCard,Fraud_Suspect
+T0296,C019,2023/01/17,9608.13,Credit,Spotify,Tokyo,Australia,MasterCard,Completed
+T0297,C033,02-03-2023,940.0,Debit,McDonalds,Tokyo,Germany,Amex,Completed
+T0298,C018,2023-10-24,3112.17,debit,Uber,Berlin,UK,MasterCard,Completed
+T0299,C020,2023/09/15,1841.2,debit,Amazon,Paris,Japan,MasterCard,Completed
+T0300,C049,27-09-2023,9493.67,Credit,Uber,Toronto,germany,Amex,Completed
